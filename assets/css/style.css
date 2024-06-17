@@ -229,6 +229,10 @@ section.sobre{
     padding: 90PX 4%;
 }
 
+.sobre .layout{
+    padding: 40px 4%;
+    box-shadow: 0 0 40px 10px #ffffff77;
+}
 section.sobre .flex{
     align-items: center;
     gap: 60px;
@@ -269,9 +273,13 @@ section.sobre .flex{
 /* ESTILO PORTIFÓLIO */ 
 section.portifolio{
     padding: 40px 4%;
-    box-shadow: 0 0 40px 10px #ffffff23;
+    box-shadow: 0 0 40px 10px #ffffff2d;
 }
 
+section.portifolio .reserva{
+    color: #ffffff;
+    text-align: justify;
+}
 section.portifolio .flex{
     justify-content: space-around;
     margin-top: 60px;
